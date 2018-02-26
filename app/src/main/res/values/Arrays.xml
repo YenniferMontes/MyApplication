@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="listado">
+        <item> Num 1 </item>
+        <item> Num 2 </item>
+        <item> Num 3 </item>
+        <item> Num 4 </item>
+        <item> Num 5 </item>
+        <item> Num 6 </item>
+
+
+    </string-array>
+</resources>
